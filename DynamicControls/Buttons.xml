@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<BUTTONS>
+  <button id="Button1">
+    <URL>https://google.com</URL>
+    <TEXT>Google</TEXT>
+    <COLOR>GREEN</COLOR>
+  </button>
+  <button id="Button2">
+    <URL>https://github.com</URL>
+    <TEXT>GITHUB</TEXT>
+    <COLOR>GRAY</COLOR>
+  </button>
+  <button id="Button3">
+    <URL>https://facebook.com</URL>
+    <TEXT>FACEBOOK</TEXT>
+    <COLOR>BLUE</COLOR>
+  </button>
+  <button id="Button4">
+    <URL>https://stackoverflow.com</URL>
+    <TEXT>STACKOVERFLOW</TEXT>
+    <COLOR>ORANGE</COLOR>
+  </button>
+  <button id="Button5">
+    <URL>https://vscode.dev/</URL>
+    <TEXT>VS CODE</TEXT>
+    <COLOR>CYAN</COLOR>
+  </button>
+  <button id="Button6">
+    <URL>https://gitlab.com</URL>
+    <TEXT>GITLAB</TEXT>
+    <COLOR>YELLOW</COLOR>
+  </button>
+  <button id="Button7">
+    <URL>https://www.w3schools.com/</URL>
+    <TEXT>W3SCHOOL</TEXT>
+    <COLOR>MAGENTA</COLOR>
+  </button>
+  
+</BUTTONS>
